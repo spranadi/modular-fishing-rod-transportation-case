@@ -91,7 +91,7 @@ To organize tasks and meet project deadlines, the team outlined a critical path 
 
 ## Presentation
 
-This project was hand-picked by OSU Engineering faculty for the Engineering Design Showcase at **The Ohio State University** (Spring 2026). The team had the privilege of presenting and pitching the design to industry professionals on April 28, 2026.
+This project was hand-picked by OSU Engineering faculty for the Engineering Design Showcase at **Ohio Stadium** (Spring 2026). The team had the privilege of presenting and pitching the design to industry professionals on April 28, 2026.
 
 <p align="center">
   <img src="assets/TeamShot.jpg" alt="Team D at the Buckeye Engineering Showcase" width="550">
